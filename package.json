@@ -1,0 +1,10 @@
+{
+  "name": "nodeppt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sunnoder <m18205253820@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodeppt": "^1.4.2"
+  }
+}
