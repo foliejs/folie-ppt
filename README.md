@@ -177,9 +177,9 @@ nodeppt start -p <port>
 ```
 
 ```bash
-nodeppt start -p 8090 -d path/for/ppts
+nodeppt start -p 8090 -d ppts/
 # 绑定host，默认绑定0.0.0.0
-nodeppt start -p 8080 -d path/for/ppts -H 127.0.0.1
+nodeppt start -p 8080 -d ppts/ -H 127.0.0.1
 # 使用socket通信（按Q键显示/关闭二维码，手机扫描，即可控制）
 # socket须知：1、注意手机和pc要可以相互访问，2、防火墙，3、ip
 ```
