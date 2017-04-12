@@ -16,7 +16,7 @@ usemathjax: yes
 * Producer {:&.zoomIn}
   * BTCC Vcode
   * User Service
-  * Admin 
+  * Admin
 
 * Consumer
     - BTCC Queue Service
@@ -26,7 +26,7 @@ usemathjax: yes
 
 
 [slide]
-# Producer Basic Features 
+# Producer Basic Features
 ----
 
   - Delayed jobs
@@ -53,7 +53,7 @@ usemathjax: yes
 [slide]
 # Consumer Basic Features
 ----
-    
+
     * Declare Queue
     * Process Queue
     * Process Job
