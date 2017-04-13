@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "tool-ppt",
+            "args": "-- start -p 8090 -d ppts/",
+            "script": "./node_modules/nodeppt/bin/nodeppt"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "HOST": "https://tool-ppt.project.ci",
+  "PORT": 10001,
+  "TOKEN_SECRETS": ["something_secret"],
+  "STRIKER_TOKEN": "something_secret",
+  "IS_DEV": false
+}
