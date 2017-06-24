@@ -1,5 +1,7 @@
 nodePPT - 让你爱上做分享！
 =============
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/foliejs/folie-ppt.svg)](https://greenkeeper.io/)
 [This is a readme file in English](./README_EN.md)
 
 [![NPM](https://nodei.co/npm-dl/nodeppt.png)](https://nodei.co/npm/nodeppt/)
